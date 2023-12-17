@@ -1,0 +1,88 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "image": "https://www.autodeal.com.ph/custom/car-model-photo/original/toyota-camry-main-623992900d1ed.jpg",
+            "model": "Camry",
+            "make": "Toyota",
+            "year": "2019",
+            "description": " The Toyota Camry is a spacious and reliable mid-size sedan, known for its comfortable ride and excellent fuel efficiency."
+        },
+        {
+            "id": 2,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/2019_Tesla_Model_3_Performance_AWD_Front.jpg",
+            "model": "Model 3",
+            "make": "Tesla",
+            "year": "2021",
+            "description": " The Tesla Model 3 is an electric sedan boasting cutting-edge technology, impressive range, and exhilarating performance."
+        },
+        {
+            "id": 3,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/96-98_Honda_Civic_LX_sedan.jpg",
+            "model": "Civic",
+            "make": "Honda",
+            "year": "2018",
+            "description": " The Honda Civic is a compact car that stands out for its reliability, fuel efficiency, and a well-designed interior."
+        },
+        {
+            "id": 4,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/2018_Ford_Mustang_GT_5.0.jpg",
+            "model": "Mustang",
+            "make": "Ford",
+            "year": "2020",
+            "description": " The Ford Mustang is an iconic American sports car known for its powerful engines and classic, muscular design."
+        },
+        {
+            "id": 5,
+            "image": "https://cdn.carbuzz.com/gallery-images/1600/1062000/500/1062514.jpg",
+            "model": "911",
+            "make": "Porsche",
+            "year": "2022",
+            "description": " The Porsche 911 is a legendary sports car with timeless design, superior handling, and a range of powerful engines."
+        },
+        {
+            "id": 6,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/2018_Jeep_Wrangler_Sahara_Unlimited_Multijet_2.1_Front.jpg",
+            "model": "Wrangler",
+            "make": "Jeep",
+            "year": "2017",
+            "description": " The Jeep Wrangler is a rugged and versatile SUV, famous for its off-road capabilities and unique, boxy design."
+        },
+        {
+            "id": 7,
+            "image": "https://www.motortrend.com/uploads/2022/07/2022-Audi-A4-S-Line-front-three-quarter-2.jpg",
+            "model": "A4",
+            "make": "Audi",
+            "year": "2020",
+            "description": " The Audi A4 is a luxury sedan offering a perfect blend of performance, comfort, and advanced technology."
+        },
+        {
+            "id": 8,
+            "image": "https://www.digitaltrends.com/wp-content/uploads/2022/01/2021-bmw-x5-phev-2.jpg?resize=625%2C417&p=1",
+            "model": "X5",
+            "make": "BMW",
+            "year": "2021",
+            "description": "  The BMW X5 is a luxury SUV that excels in comfort, power, and driving dynamics, with a spacious and high-end interior."
+        },
+        {
+            "id": 9,
+            "image": "https://www.motortrend.com/uploads/2023/09/2024-Ford-F-150-Lariat-1.jpg",
+            "model": "F-150",
+            "make": "Ford",
+            "year": "2019",
+            "description": " The Ford F-150 is a top-selling full-size pickup truck known for its strength, versatility, and advanced features."
+        },
+        {
+            "id": 10,
+            "image": "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/2018-subaru-impreza-2.0i-s-sedan-red-andrew-chesterton-1200x800-%281%29.jpg",
+            "model": "Impreza",
+            "make": "Subaru",
+            "year": "2018",
+            "description": " The Subaru Impreza is a compact car that stands out for its all-wheel-drive capability, reliability, and safety features."
+        }
+
+    ],
+    "total": 10,
+    "skip":0,
+    "limit":10
+}
